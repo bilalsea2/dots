@@ -1,5 +1,5 @@
-<h2 align="center">My arch rice</h2>
-<h5 align="center">one lost config</h5>
+<h2 align="center">My arch rice from 7th grade</h2>
+<h5 align="center">one lost config from, will update</h5>
 
 ![Preview](https://github.com/Consectaneus/dots/blob/main/rice.png?raw=true)
 
